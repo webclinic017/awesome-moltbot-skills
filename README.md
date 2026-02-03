@@ -1445,6 +1445,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [ontology](https://github.com/openclaw/skills/tree/main/skills/oswalpalash/ontology/SKILL.md) - Typed knowledge graph for structured agent memory and composable skills.
 - [orf-digest](https://github.com/openclaw/skills/tree/main/skills/cpojer/orf/SKILL.md) - On-demand ORF news digest in German.
 - [people-memories](https://github.com/openclaw/skills/tree/main/skills/charbeld/people-memories/SKILL.md) - Capture short personal notes about people you mention, store them in a lightweight DB, and recall those details whene.
+- [penfield](https://github.com/openclaw/skills/tree/main/skills/dial481/penfield/SKILL.md) - Persistent agent memory with hybrid search (BM25 + vector + graph), knowledge graphs, cognitive context handoffs, and artifact storage via OpenClaw native plugin or Penfield MCP.
 - [project-tree](https://github.com/openclaw/skills/tree/main/skills/lachlanglasgow/project-tree/SKILL.md) - Generate a visual directory tree of the ~/projects folder and update MEMORY.md with the result.
 - [proton-pass](https://github.com/openclaw/skills/tree/main/skills/kakatkarakshay/proton-pass/SKILL.md) - Manage Proton Pass vaults, items (logins, SSH keys, aliases, notes), passwords, SSH agent integration.
 - [purelymail](https://github.com/openclaw/skills/tree/main/skills/dbhurley/purelymail/SKILL.md) - Set up and test PurelyMail email for Clawdbot agents.
