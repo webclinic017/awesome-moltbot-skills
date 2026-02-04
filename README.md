@@ -33,7 +33,7 @@ Skills in this list are sourced from [ClawHub](https://www.clawhub.com/) (OpenCl
 
 These skills follow the Agent Skill convention develop by Anthropic, an open standard for AI coding assistants.
 
-> **Want to add a skill?** This list only includes skills that are **already published** in the [official OpenClaw skills repo](https://github.com/openclaw/skills/tree/main/skills). We do not accept links to personal repos, gists, or any other external source. If your skill isn't in the OpenClaw skills repo yet, publish it there first. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+> **Want to add a skill?** This list only includes skills that are **already published** in the "github.com/openclaw/skills". We do not accept links to personal repos, gists, or any other external source. If your skill isn't in the OpenClaw skills repo yet, publish it there first. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## Installation
 
